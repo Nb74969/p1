@@ -18,10 +18,7 @@ setup(
     keywords = "p1",
     url = "",
     packages=['src', 'tests'],
-    install_requires=['pytest'],
     long_description=read('README.md'),
-    setup_requires=['pytest-runner'],
-    tests_require=['pytest'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
