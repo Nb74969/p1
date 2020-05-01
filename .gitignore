@@ -1,0 +1,4 @@
+build
+p1.egg-info
+.eggs
+.pytest_cache
